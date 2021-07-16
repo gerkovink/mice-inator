@@ -1,2 +1,2 @@
 # mice-inator
-What the future would do to protect today's mice
+What the future would send to protect today's `mice`
